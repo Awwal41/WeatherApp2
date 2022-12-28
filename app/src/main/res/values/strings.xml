@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp2</string>
+    <string name="image_contentdescription">image_contentDescription</string>
+    <string name="miles_per_hour">miles_per_hour</string>
+    <string name="please_wait">please_wait</string>
+    <string name="action_refresh">action_refresh</string>
+
+</resources>
